@@ -19,6 +19,7 @@ public class Main {
         System.out.println("Книга 1 изменение года публикации- " + book1.getTitle() + " автор " + author1.getName() + " " + author1.getSurname() + " год публикации " + book1.getYearPublic());
     }
 }
+
 //Создайте класс Book, который будет содержать в себе данные о названии,
 // авторе и годе публикации книги.
 class Book {
