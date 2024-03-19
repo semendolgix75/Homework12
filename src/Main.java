@@ -23,6 +23,7 @@ public class Main {
 // авторе и годе публикации книги.
 class Book {
     private String title;
+
     private Author author;
     private int yearPublic;
     //Напишите конструкторы для обоих классов, заполняющие все поля.
